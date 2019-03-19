@@ -10,8 +10,8 @@
 	
 <distributionManagement>
   <repository>
-    <id>Test</id>
-    <url>http://localhost:8081/nexus/content/repositories/Test</url>
+    <id>E-comm</id>
+    <url>http://localhost:8081/nexus/content/repositories/E-comm</url>
   </repository>
 </distributionManagement>
 
